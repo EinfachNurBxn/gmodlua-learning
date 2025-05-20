@@ -35,7 +35,7 @@ jobs:
                 },
                 "description": "'"$COMMIT_MSG"'",
                 "footer": {
-                  "text": "GitHub Push Webhook"
+                  "text": "GitHub Changelog"
                 },
                 "timestamp": "'"$TIMESTAMP"'"
               }]
