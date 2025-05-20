@@ -35,8 +35,7 @@ jobs:
                 },
                 "description": "'"$COMMIT_MSG"'",
                 "footer": {
-                  "text": "GitHub Push Webhook",
-                  "icon_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                  "text": "GitHub Push Webhook"
                 },
                 "timestamp": "'"$TIMESTAMP"'"
               }]
