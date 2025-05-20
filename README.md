@@ -20,8 +20,8 @@ Learn Garry's Mod Lua.
 
 ## 📈 Repository Stats
 
-![Last Commit](https://img.shields.io/github/last-commit/einfachnurbxn/gmodlua)  
-![Commit Activity](https://img.shields.io/github/commit-activity/m/einfachnurbxn/gmodlua)
+![Last Commit](https://img.shields.io/github/last-commit/einfachnurbxn/gmodlua-learning)  
+![Commit Activity](https://img.shields.io/github/commit-activity/m/einfachnurbxn/gmodlua-learning)
 
 If you have questions or suggestions, feel free to reach out!  
 Have fun learning! 🎮🛠️
