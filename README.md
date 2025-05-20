@@ -11,7 +11,7 @@ Learn Garry's Mod Lua.
 
 ---
 
-## 📚 What You Will Learn
+## 📚 What I Want To Learn
 
 - Understanding some Garry's Mod functions  
 - Understanding GMod Lua syntax  
@@ -24,7 +24,7 @@ Learn Garry's Mod Lua.
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/einfachnurbxn/gmodlua-learning)
 
 If you have questions or suggestions, feel free to reach out!  
-Have fun learning! 🎮🛠️
+Thank you! 🎮🛠️
 
 ---
 
